@@ -1,0 +1,18 @@
+body
+{
+    background-image: url(https://media3.giphy.com/media/l0HlBaC5Kp9cXZDTa/giphy.gif);
+    background-size: cover;
+}
+.cadre
+{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.form
+{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 80%;
+    opacity: 0.95;
+}
